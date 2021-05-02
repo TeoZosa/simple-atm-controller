@@ -1,0 +1,27 @@
+{
+  "template": "https://github.com/TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd",
+  "commit": "07fd0ca8d9e8132c1ed313fc22fef6cbb210793c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Simple ATM Controller",
+      "project_slug": "simple-atm-controller",
+      "package_name": "simple_atm_controller",
+      "friendly_name": "Simple ATM Controller",
+      "author": "Teo Zosa",
+      "email": "teo@sonosim.com",
+      "remote_vcs_host": "github",
+      "remote_vcs_url": "https://github.com",
+      "remote_vcs_username": "TeoZosa",
+      "project_repository_url": "https://github.com/TeoZosa/simple-atm-controller",
+      "documentation_url": "https://simple-atm-controller.readthedocs.io",
+      "adr_documentation_url": "https://TeoZosa.github.io/simple-atm-controller/adl/",
+      "version": "0.0.0",
+      "_copy_without_render": [
+        "docs/source/_templates/*"
+      ],
+      "_template": "https://github.com/TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd"
+    }
+  },
+  "directory": null
+}
