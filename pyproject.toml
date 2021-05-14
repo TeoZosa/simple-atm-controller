@@ -59,7 +59,7 @@ hypothesis = "^6.10.1"
 icontract-hypothesis = "^1.1.0"
 mutmut = "^2.1.0"
 xdoctest = "^0.15.0"
-tox = "^3.21.4"
+tox = "^3.23.1"
 tox-gh-actions = "^2.3.0"
 # Code formatter
 # see: https://black.readthedocs.io/en/stable/editor_integration.html
