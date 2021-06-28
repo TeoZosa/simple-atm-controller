@@ -1132,7 +1132,7 @@ type_comments = ["typed-ast (>=1.4.0)"]
 
 [[package]]
 name = "sphinx-icontract"
-version = "2.0.2"
+version = "2.0.3"
 description = "Extend sphinx to include icontracts."
 category = "main"
 optional = true
@@ -1502,7 +1502,7 @@ docs = ["myst-parser", "pygments", "sphinx", "sphinx-autodoc-typehints", "sphinx
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "6676365c77dce14b8b60b8cfef5d2b64e57210898ce60926f19f2be93666867a"
+content-hash = "cd67f60be3abaa7d11083c614941e6f6b3a1e39051eedb5d90227b8d2d83cf3a"
 
 [metadata.files]
 alabaster = [
@@ -2101,7 +2101,7 @@ sphinx-autodoc-typehints = [
     {file = "sphinx_autodoc_typehints-1.12.0-py3-none-any.whl", hash = "sha256:5e81776ec422dd168d688ab60f034fccfafbcd94329e9537712c93003bddc04a"},
 ]
 sphinx-icontract = [
-    {file = "sphinx-icontract-2.0.2.tar.gz", hash = "sha256:920ac3b4fc0de37a795014bde277b65b027bd3cf9574758ad6e0cf599eec1a71"},
+    {file = "sphinx-icontract-2.0.3.tar.gz", hash = "sha256:5b367c92e05934a75a40cd2e9a08e34ecaab9b9b2b8c0c28bff5913c1337df78"},
 ]
 sphinx-rtd-theme = [
     {file = "sphinx_rtd_theme-0.5.2-py2.py3-none-any.whl", hash = "sha256:4a05bdbe8b1446d77a01e20a23ebc6777c74f43237035e76be89699308987d6f"},
