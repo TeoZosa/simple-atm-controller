@@ -28,7 +28,7 @@ Changelog = "https://github.com/TeoZosa/simple-atm-controller/releases"
 
 [tool.poetry.dependencies]
 python = "^3.7"
-icontract = "^2.5.3"
+icontract = "^2.5.5"
 importlib-metadata = "^2.1.1"
 python-dotenv = "^0.15.0"
 structlog-sentry-logger = "^0.7.3"
