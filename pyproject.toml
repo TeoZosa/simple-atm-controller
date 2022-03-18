@@ -48,7 +48,7 @@ typer-cli = { version = "^0.0.11", optional = true}
 
 [tool.poetry.dev-dependencies]
 # Testing
-pytest = "^6.2.4"
+pytest = "^7.1.1"
 pytest-benchmark = {extras = ["histogram"], version = "^3.4.1"}
 pytest-cov = "^2.12.1"
 pytest-emoji = "^0.2.0"
